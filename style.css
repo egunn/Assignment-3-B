@@ -37,9 +37,11 @@ p{
 .axis .domain{
     fill:none
 }
+
 .axis .tick line{
     stroke:rgb(180,180,180);
     stroke-width:1px;
+	stroke:black;
 }
 .axis .tick text{
     font-size:10px;
