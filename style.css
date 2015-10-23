@@ -41,9 +41,10 @@ p{
 .axis .tick line{
     stroke:rgb(180,180,180);
     stroke-width:1px;
-	stroke:black;
+
 }
 .axis .tick text{
     font-size:10px;
-    fill:rgb(180,180,180);
+    fill:rgb(180,180,180)
 }
+
